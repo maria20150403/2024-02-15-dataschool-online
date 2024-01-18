@@ -16,6 +16,7 @@ keypoints:
 - "Every page on the world wide web is identified with a URL or Uniform Resource Locator."
 - "A request is how you tell a server what you want to see. A response will either give you what you asked for, or tell you why the server can't do that. Both requests and responses have a header, and optionally a body."
 - "We can make requests and receive responses, as well as see their headers, using `curl`."
+cite: Lesson adapted from *Ed Bennett, Michele Mesiti, Colin Sauzé, "Introduction to the Web and Online APIs"*
 ---
 
 Since it was first introduced to the world in 1991, the World Wide Web has gone
